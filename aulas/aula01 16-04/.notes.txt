@@ -1,0 +1,13 @@
+- Comandos Terminal Linux:
+
+    - cd: entra em algum diretório (cd nomediretorio);
+    - ls: lista os arquivos no diretorio atual (ls);
+    - xed: abre um arquivo no editor de texto do Linux (xed nomearquivo.extensao &) - & executa o arquivo em segundo plano, possibilitando a utilização do terminal;
+    - touch: cria um arquivo (touch nomearquivo.extensao);
+    - mkdir: cria uma pasta (mkdir nomedapasta);
+    - rm: remove um arquivo (rm nomearquivo.extensao);
+    - rmdir: remove uma pasta se estiver vazia (rmdir nomepasta);
+    - rm -r: remove uma pasta e tudo que estiver dentro (rm -r nomepasta);
+    - cp: copia um arquivo do diretorio atual para outro (cp nomearquivo.extensao nomediretorio);
+    - mv: move o arquivo para o destino e apaga o antigo (mv nomearquivo.extensao nomediretorio);
+    - mv: renomear um arquivo (mv nomeantigo.extensao nomenovo.extensao);
