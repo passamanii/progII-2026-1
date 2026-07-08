@@ -1,0 +1,448 @@
+João Silva
+9BWZZZ377VT004251
+Onix LT
+Chevrolet
+Prata
+Flex
+2020
+ABC1D23
+Maria Oliveira
+93YBSR7RHCJ548721
+HB20 Comfort
+Hyundai
+Branco
+Gasolina
+1892
+DEF2E34
+Carlos Pereira
+9BD17164LG5893214
+Argo Drive
+Fiat
+Vermelho
+Flex
+2021
+GHI3F45
+Ana Souza
+8AWPB45Z6JA214587
+Gol 1.6
+Volkswagen
+Preto
+Flex
+2018
+JKL4G56
+Pedro Santos
+9BGKS48G0CG145896
+Cruze LT
+Chevrolet
+Cinza
+Gasolina
+2017
+MNO5H67
+Fernanda Lima
+93HFC26409Z214578
+Civic EX
+Honda
+Azul
+Gasolina
+2022
+PQR6I78
+Lucas Almeida
+9BRBD48E5F2145879
+Corolla XEi
+Toyota
+Prata
+Flex
+2023
+STU7J89
+Juliana Rocha
+935CHRFM84J145896
+208 Allure
+Peugeot
+Branco
+Flex
+2021
+VWX8K90
+Ricardo Costa
+9BFZF55P7D2145876
+Ka SE
+Ford
+Vermelho
+Flex
+2019
+YZA1L01
+Patrícia Gomes
+9362CKFW98B214578
+C3 Feel
+Citroën
+Cinza
+Flex
+2020
+BCD2M12
+Marcos Ribeiro
+93UMB48L6J2145789
+Virtus Comfortline
+Volkswagen
+Preto
+Flex
+2022
+CDE3N23
+Camila Martins
+9BD195A4ZM2145874
+Mobi Like
+Fiat
+Branco
+Flex
+2023
+EFG4O34
+Rafael Fernandes
+9BGTV48W0FG214589
+Tracker LT
+Chevrolet
+Azul
+Flex
+2021
+FGH5P45
+Beatriz Carvalho
+93Y4SRFH7K2145871
+Kwid Zen
+Renault
+Laranja
+Flex
+2022
+HIJ6Q56
+Diego Barbosa
+9BRBL3HE2P2145876
+Hilux SRV
+Toyota
+Prata
+Diesel
+2020
+IJK7R67
+Larissa Nunes
+8AFER13D7L2145875
+EcoSport SE
+Ford
+Branco
+Flex
+2018
+JKL8S78
+Gustavo Melo
+9BWAB45U7KP214587
+Polo Highline
+Volkswagen
+Cinza
+Flex
+2023
+KLM9T89
+Paula Vieira
+935FCN6A9JB214587
+C4 Cactus
+Citroën
+Preto
+Flex
+2021
+LMN0U90
+André Castro
+9BD358A1HM2145876
+Toro Freedom
+Fiat
+Vermelho
+Diesel
+2022
+NOP1V01
+Renata Dias
+93HGK5870NZ214587
+HR-V EX
+Honda
+Prata
+Flex
+2024
+OPQ2W12
+Felipe Moraes
+9BGRD48X7PG214587
+Spin LTZ
+Chevrolet
+Branco
+Flex
+2020
+QRS3X23
+Natália Freitas
+9BRK29BT5MG214587
+Yaris XL
+Toyota
+Azul
+Flex
+2021
+RST4Y34
+Eduardo Lopes
+93Y5SRFH8L214587
+Sandero Stepway
+Renault
+Cinza
+Gasolina
+1954
+STU5Z45
+Bruna Teixeira
+9BFZH54J2F214587
+Fiesta SE
+Ford
+Prata
+Flex
+2017
+TUV6A56
+Thiago Pinto
+8AWDB45U4NT214587
+Nivus Comfortline
+Volkswagen
+Cinza
+Flex
+2023
+UVW7B67
+Aline Correia
+9BD118A5JN2145876
+Cronos Drive
+Fiat
+Branco
+Flex
+2022
+VWX8C78
+Leonardo Cunha
+93HFC1620M214587
+City EX
+Honda
+Preto
+Flex
+2021
+WXY9D89
+Carolina Araújo
+9BG148FK0NG214587
+S10 LT
+Chevrolet
+Prata
+Diesel
+2024
+XYZ0E90
+Roberto Lima
+9BR53BKD1LG214587
+Corolla Cross XR
+Toyota
+Branco
+Flex
+2023
+ABC1F02
+Vanessa Ribeiro
+93Y4SRFK2M214587
+Duster Iconic
+Renault
+Marrom
+Flex
+2022
+BCD2G13
+Henrique Alves
+9BWDB45U5PG214587
+T-Cross Sense
+Volkswagen
+Azul
+Flex
+2024
+CDE3H24
+Isabela Moraes
+9BD341A7FG214587
+Pulse Drive
+Fiat
+Cinza
+Flex
+2023
+DEF4I35
+Daniel Gomes
+93HFC4670PG214587
+Fit EXL
+Honda
+Prata
+Flex
+2018
+EFG5J46
+Tatiane Lopes
+9BGKS69W8NG214587
+Equinox Premier
+Chevrolet
+Preto
+Gasolina
+2024
+FGH6K57
+Vinícius Cardoso
+9BRYB3HE4JG214587
+SW4 SRX
+Toyota
+Branco
+Diesel
+2021
+GHI7L68
+Amanda Farias
+8AFZT54P6DG214587
+Ranger XLS
+Ford
+Cinza
+Diesel
+2020
+HIJ8M79
+Fábio Moreira
+9BWAA45U2KG214587
+Saveiro Robust
+Volkswagen
+Branco
+Flex
+2022
+IJK9N80
+Simone Rocha
+9BD295A8PN214587
+Strada Volcano
+Fiat
+Vermelho
+Flex
+2024
+JKL0O91
+José Henrique
+93HRU1840MG214587
+WR-V EX
+Honda
+Prata
+Flex
+2021
+KLM1P02
+Cristiane Souza
+9BGAL48F0CG214587
+Prisma LT
+Chevrolet
+Azul
+Flex
+2018
+LMN2Q13
+Márcio Fernandes
+9BRB29BT7NG214587
+Corolla Altis
+Toyota
+Preto
+Flex
+2024
+MNO3R24
+Luciana Campos
+93Y5SRFK9LG214587
+Logan Life
+Renault
+Branco
+Flex
+2020
+NOP4S35
+Alexandre Reis
+9BFZF54A8DG214587
+Focus SE
+Ford
+Cinza
+Gasolina
+2017
+OPQ5T46
+Priscila Moura
+8AWAB45U3MG214587
+Voyage 1.6
+Volkswagen
+Prata
+Flex
+2019
+PQR6U57
+Caio Rezende
+9BD118A6PN214587
+Fastback Audace
+Fiat
+Azul
+Flex
+2024
+QRS7V68
+Débora Lima
+93HFC1631LG214587
+City Touring
+Honda
+Branco
+Flex
+2023
+RST8W79
+Igor Duarte
+9BGKS48L5PG214587
+Trailblazer Premier
+Chevrolet
+Preto
+Diesel
+2024
+STU9X80
+Elaine Barros
+9BRYB48E6MG214587
+Etios X
+Toyota
+Prata
+Flex
+2018
+TUV0Y91
+Maurício Oliveira
+93Y4SRFL3PG214587
+Oroch Outsider
+Renault
+Cinza
+Flex
+2023
+UVW1Z02
+Sabrina Costa
+9BFZH55J4NG214587
+Territory Titanium
+Ford
+Branco
+Gasolina
+2024
+VWX2A13
+Bruno Vieira
+8AWPB45Z8PG214587
+Taos Comfortline
+Volkswagen
+Azul
+Flex
+2024
+WXY3B24
+Gabriela Ferreira
+9BD358A9MG214587
+Toro Ranch
+Fiat
+Preto
+Diesel
+2023
+XYZ4C35
+Rodrigo Martins
+93HRU2862PG214587
+ZR-V Touring
+Honda
+Cinza
+Gasolina
+2024
+ABC5D46
+Michele Nascimento
+9BG148FK4PG214587
+Montana Premier
+Chevrolet
+Vermelho
+Flex
+2024
+BCD6E57
+Rogério Carvalho
+9BR53BKF5PG214587
+Hilux STD
+Toyota
+Branco
+Diesel
+2022
+CDE7F68
+Viviane Almeida
+93Y5SRFM6PG214587
+Captur Intense
+Renault
+Prata
+Flex
+2021
+DEF8G79

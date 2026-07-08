@@ -1,0 +1,750 @@
+OS11E
+Machado de Assis
+Dom Casmurro 1
+Companhia das Letras
+324
+GC67K
+George Orwell
+1984 2
+HarperCollins
+566
+IJ32C
+J. K. Rowling
+Harry Potter e a Pedra Filosofal 3
+Record
+505
+OC92J
+J. R. R. Tolkien
+O Hobbit 4
+Rocco
+535
+AS20G
+Clarice Lispector
+A Hora da Estrela 5
+Intrínseca
+513
+CI72R
+Graciliano Ramos
+Vidas Secas 6
+Penguin
+273
+SV05H
+José Saramago
+Ensaio sobre a Cegueira 7
+Sextante
+347
+HE45M
+Stephen King
+O Iluminado 8
+Ática
+767
+AF84H
+Agatha Christie
+Assassinato no Expresso do Oriente 9
+Saraiva
+134
+NA01K
+Isaac Asimov
+Fundação 10
+Nova Fronteira
+898
+IR34T
+Jane Austen
+Orgulho e Preconceito 11
+Companhia das Letras
+344
+XY90X
+Victor Hugo
+Os Miseráveis 12
+HarperCollins
+173
+DO41K
+Franz Kafka
+A Metamorfose 13
+Record
+647
+XA24D
+Ernest Hemingway
+O Velho e o Mar 14
+Rocco
+463
+GA57J
+Dan Brown
+O Código Da Vinci 15
+Intrínseca
+488
+NM80V
+Machado de Assis
+Dom Casmurro 16
+Penguin
+732
+KG14W
+George Orwell
+1984 17
+Sextante
+699
+VW28G
+J. K. Rowling
+Harry Potter e a Pedra Filosofal 18
+Ática
+348
+MQ83Q
+J. R. R. Tolkien
+O Hobbit 19
+Saraiva
+392
+QH80O
+Clarice Lispector
+A Hora da Estrela 20
+Nova Fronteira
+123
+OZ79X
+Graciliano Ramos
+Vidas Secas 21
+Companhia das Letras
+149
+TC31W
+José Saramago
+Ensaio sobre a Cegueira 22
+HarperCollins
+876
+UB75F
+Stephen King
+O Iluminado 23
+Record
+223
+XE42F
+Agatha Christie
+Assassinato no Expresso do Oriente 24
+Rocco
+767
+LE43E
+Isaac Asimov
+Fundação 25
+Intrínseca
+284
+HU36F
+Jane Austen
+Orgulho e Preconceito 26
+Penguin
+801
+US54M
+Victor Hugo
+Os Miseráveis 27
+Sextante
+710
+IH80R
+Franz Kafka
+A Metamorfose 28
+Ática
+230
+ZC02R
+Ernest Hemingway
+O Velho e o Mar 29
+Saraiva
+503
+HY81R
+Dan Brown
+O Código Da Vinci 30
+Nova Fronteira
+673
+LE47D
+Machado de Assis
+Dom Casmurro 31
+Companhia das Letras
+818
+JQ69U
+George Orwell
+1984 32
+HarperCollins
+614
+XD54Y
+J. K. Rowling
+Harry Potter e a Pedra Filosofal 33
+Record
+870
+HW77I
+J. R. R. Tolkien
+O Hobbit 34
+Rocco
+618
+YB50Y
+Clarice Lispector
+A Hora da Estrela 35
+Intrínseca
+336
+QU35I
+Graciliano Ramos
+Vidas Secas 36
+Penguin
+187
+QD28J
+José Saramago
+Ensaio sobre a Cegueira 37
+Sextante
+552
+CY26J
+Stephen King
+O Iluminado 38
+Ática
+402
+ZC66J
+Agatha Christie
+Assassinato no Expresso do Oriente 39
+Saraiva
+516
+TX12G
+Isaac Asimov
+Fundação 40
+Nova Fronteira
+166
+BB06K
+Jane Austen
+Orgulho e Preconceito 41
+Companhia das Letras
+814
+DG36O
+Victor Hugo
+Os Miseráveis 42
+HarperCollins
+161
+FC53E
+Franz Kafka
+A Metamorfose 43
+Record
+489
+CZ83L
+Ernest Hemingway
+O Velho e o Mar 44
+Rocco
+864
+WR69N
+Dan Brown
+O Código Da Vinci 45
+Intrínseca
+167
+RT51M
+Machado de Assis
+Dom Casmurro 46
+Penguin
+327
+AB41C
+George Orwell
+1984 47
+Sextante
+467
+AT68T
+J. K. Rowling
+Harry Potter e a Pedra Filosofal 48
+Ática
+522
+IA64Y
+J. R. R. Tolkien
+O Hobbit 49
+Saraiva
+172
+RA45T
+Clarice Lispector
+A Hora da Estrela 50
+Nova Fronteira
+505
+RF87P
+Graciliano Ramos
+Vidas Secas 51
+Companhia das Letras
+583
+ZZ54B
+José Saramago
+Ensaio sobre a Cegueira 52
+HarperCollins
+387
+NH41D
+Stephen King
+O Iluminado 53
+Record
+448
+TG90O
+Agatha Christie
+Assassinato no Expresso do Oriente 54
+Rocco
+298
+JE92O
+Isaac Asimov
+Fundação 55
+Intrínseca
+437
+RP65G
+Jane Austen
+Orgulho e Preconceito 56
+Penguin
+577
+VV64D
+Victor Hugo
+Os Miseráveis 57
+Sextante
+172
+PS90A
+Franz Kafka
+A Metamorfose 58
+Ática
+811
+CT56F
+Ernest Hemingway
+O Velho e o Mar 59
+Saraiva
+538
+TT98L
+Dan Brown
+O Código Da Vinci 60
+Nova Fronteira
+762
+DZ36B
+Machado de Assis
+Dom Casmurro 61
+Companhia das Letras
+584
+IT53K
+George Orwell
+1984 62
+HarperCollins
+331
+EP91D
+J. K. Rowling
+Harry Potter e a Pedra Filosofal 63
+Record
+644
+FJ63Y
+J. R. R. Tolkien
+O Hobbit 64
+Rocco
+351
+WB27Z
+Clarice Lispector
+A Hora da Estrela 65
+Intrínseca
+541
+RN35R
+Graciliano Ramos
+Vidas Secas 66
+Penguin
+760
+OX75L
+José Saramago
+Ensaio sobre a Cegueira 67
+Sextante
+847
+DG31E
+Stephen King
+O Iluminado 68
+Ática
+467
+ZY82Q
+Agatha Christie
+Assassinato no Expresso do Oriente 69
+Saraiva
+307
+XD53C
+Isaac Asimov
+Fundação 70
+Nova Fronteira
+535
+QX47K
+Jane Austen
+Orgulho e Preconceito 71
+Companhia das Letras
+885
+FE51M
+Victor Hugo
+Os Miseráveis 72
+HarperCollins
+438
+WQ67Q
+Franz Kafka
+A Metamorfose 73
+Record
+775
+WK20D
+Ernest Hemingway
+O Velho e o Mar 74
+Rocco
+372
+OQ69S
+Dan Brown
+O Código Da Vinci 75
+Intrínseca
+701
+QQ88P
+Machado de Assis
+Dom Casmurro 76
+Penguin
+507
+CI39B
+George Orwell
+1984 77
+Sextante
+238
+WC51Q
+J. K. Rowling
+Harry Potter e a Pedra Filosofal 78
+Ática
+288
+LF91P
+J. R. R. Tolkien
+O Hobbit 79
+Saraiva
+383
+CW51M
+Clarice Lispector
+A Hora da Estrela 80
+Nova Fronteira
+832
+XP64Z
+Graciliano Ramos
+Vidas Secas 81
+Companhia das Letras
+672
+AZ66Z
+José Saramago
+Ensaio sobre a Cegueira 82
+HarperCollins
+380
+TL23X
+Stephen King
+O Iluminado 83
+Record
+415
+YU05W
+Agatha Christie
+Assassinato no Expresso do Oriente 84
+Rocco
+201
+LA96I
+Isaac Asimov
+Fundação 85
+Intrínseca
+288
+DY65O
+Jane Austen
+Orgulho e Preconceito 86
+Penguin
+759
+XE41K
+Victor Hugo
+Os Miseráveis 87
+Sextante
+710
+WX57G
+Franz Kafka
+A Metamorfose 88
+Ática
+163
+TX21T
+Ernest Hemingway
+O Velho e o Mar 89
+Saraiva
+863
+BT71U
+Dan Brown
+O Código Da Vinci 90
+Nova Fronteira
+429
+PQ87K
+Machado de Assis
+Dom Casmurro 91
+Companhia das Letras
+572
+IU26D
+George Orwell
+1984 92
+HarperCollins
+572
+PM18L
+J. K. Rowling
+Harry Potter e a Pedra Filosofal 93
+Record
+608
+CT86L
+J. R. R. Tolkien
+O Hobbit 94
+Rocco
+715
+NR92T
+Clarice Lispector
+A Hora da Estrela 95
+Intrínseca
+740
+TX47F
+Graciliano Ramos
+Vidas Secas 96
+Penguin
+143
+CC40O
+José Saramago
+Ensaio sobre a Cegueira 97
+Sextante
+273
+KZ47Y
+Stephen King
+O Iluminado 98
+Ática
+389
+KR00Q
+Agatha Christie
+Assassinato no Expresso do Oriente 99
+Saraiva
+735
+XM71L
+Isaac Asimov
+Fundação 100
+Nova Fronteira
+505
+FX81L
+Jane Austen
+Orgulho e Preconceito 101
+Companhia das Letras
+552
+XZ75M
+Victor Hugo
+Os Miseráveis 102
+HarperCollins
+252
+ZB03K
+Franz Kafka
+A Metamorfose 103
+Record
+519
+FV35T
+Ernest Hemingway
+O Velho e o Mar 104
+Rocco
+476
+PU31C
+Dan Brown
+O Código Da Vinci 105
+Intrínseca
+562
+CU19S
+Machado de Assis
+Dom Casmurro 106
+Penguin
+633
+BR95M
+George Orwell
+1984 107
+Sextante
+833
+HE25I
+J. K. Rowling
+Harry Potter e a Pedra Filosofal 108
+Ática
+365
+YO16C
+J. R. R. Tolkien
+O Hobbit 109
+Saraiva
+258
+RJ50S
+Clarice Lispector
+A Hora da Estrela 110
+Nova Fronteira
+715
+JI58F
+Graciliano Ramos
+Vidas Secas 111
+Companhia das Letras
+666
+UD88N
+José Saramago
+Ensaio sobre a Cegueira 112
+HarperCollins
+823
+JF27C
+Stephen King
+O Iluminado 113
+Record
+882
+PA51K
+Agatha Christie
+Assassinato no Expresso do Oriente 114
+Rocco
+863
+PT00Z
+Isaac Asimov
+Fundação 115
+Intrínseca
+580
+KD76C
+Jane Austen
+Orgulho e Preconceito 116
+Penguin
+330
+UC29M
+Victor Hugo
+Os Miseráveis 117
+Sextante
+830
+WW57J
+Franz Kafka
+A Metamorfose 118
+Ática
+743
+VF45Z
+Ernest Hemingway
+O Velho e o Mar 119
+Saraiva
+299
+KD61D
+Dan Brown
+O Código Da Vinci 120
+Nova Fronteira
+316
+FU63X
+Machado de Assis
+Dom Casmurro 121
+Companhia das Letras
+379
+QJ79C
+George Orwell
+1984 122
+HarperCollins
+678
+ZG96I
+J. K. Rowling
+Harry Potter e a Pedra Filosofal 123
+Record
+732
+VL88T
+J. R. R. Tolkien
+O Hobbit 124
+Rocco
+889
+SS83I
+Clarice Lispector
+A Hora da Estrela 125
+Intrínseca
+166
+QS74P
+Graciliano Ramos
+Vidas Secas 126
+Penguin
+362
+SB79Y
+José Saramago
+Ensaio sobre a Cegueira 127
+Sextante
+454
+FF99W
+Stephen King
+O Iluminado 128
+Ática
+202
+EA45K
+Agatha Christie
+Assassinato no Expresso do Oriente 129
+Saraiva
+328
+ML37Y
+Isaac Asimov
+Fundação 130
+Nova Fronteira
+513
+GT75V
+Jane Austen
+Orgulho e Preconceito 131
+Companhia das Letras
+590
+BD73A
+Victor Hugo
+Os Miseráveis 132
+HarperCollins
+220
+XX30T
+Franz Kafka
+A Metamorfose 133
+Record
+126
+DE38S
+Ernest Hemingway
+O Velho e o Mar 134
+Rocco
+447
+JS66M
+Dan Brown
+O Código Da Vinci 135
+Intrínseca
+515
+EG51D
+Machado de Assis
+Dom Casmurro 136
+Penguin
+519
+DS61M
+George Orwell
+1984 137
+Sextante
+807
+KM55A
+J. K. Rowling
+Harry Potter e a Pedra Filosofal 138
+Ática
+577
+BN06V
+J. R. R. Tolkien
+O Hobbit 139
+Saraiva
+834
+UL46O
+Clarice Lispector
+A Hora da Estrela 140
+Nova Fronteira
+285
+ZC46B
+Graciliano Ramos
+Vidas Secas 141
+Companhia das Letras
+689
+SL37B
+José Saramago
+Ensaio sobre a Cegueira 142
+HarperCollins
+764
+IB94I
+Stephen King
+O Iluminado 143
+Record
+262
+YZ18C
+Agatha Christie
+Assassinato no Expresso do Oriente 144
+Rocco
+261
+HM30O
+Isaac Asimov
+Fundação 145
+Intrínseca
+272
+VE43D
+Jane Austen
+Orgulho e Preconceito 146
+Penguin
+140
+VJ68G
+Victor Hugo
+Os Miseráveis 147
+Sextante
+835
+AD45T
+Franz Kafka
+A Metamorfose 148
+Ática
+790
+CU64L
+Ernest Hemingway
+O Velho e o Mar 149
+Saraiva
+781
+HT99X
+Dan Brown
+O Código Da Vinci 150
+Nova Fronteira
+469
